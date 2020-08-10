@@ -2,7 +2,7 @@ This project is to search for images in Unsplash.
 
 Demo
 
-![Image list](public/image_list.png?raw=true "Image list")
+![Image list](public/image_home.png?raw=true "Image list")
 
 ## Available Scripts
 
